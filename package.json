@@ -1,0 +1,10 @@
+{
+  "name": "D3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "renauddev <racinet.renaud@orange.Fr>",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^7.0.0"
+  }
+}
